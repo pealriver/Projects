@@ -1,1 +1,1 @@
-Customer Segmentation for a Brazilian Online Department Store
+Time Series Forecasting for a Brazilian Online Department Store
